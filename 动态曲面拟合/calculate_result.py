@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import json
 
-config_path = "./config.json"
+config_path = "../config.json"
 submission_file_path = "submission.csv"
 OPTION_MONTH = "IO2507"
 

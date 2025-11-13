@@ -57,7 +57,7 @@ class SamplePrediction:
 
 class CfeFinMathApi:
     def __init__(self):
-        self.config_path: str = "./config.json"
+        self.config_path: str = "../config.json"
         self.option_month: str = "IO2507"
         self.date: str = ""
         self.data_path: str = ""
