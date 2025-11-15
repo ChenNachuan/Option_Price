@@ -1,0 +1,10 @@
+# Python 缓存文件
+*.pyc
+__pycache__/
+
+# 数据和提交结果文件
+*.csv
+*.json
+
+# 排除 config.json，因为 Git 应该跟踪它
+!config.json
